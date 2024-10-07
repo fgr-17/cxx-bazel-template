@@ -30,6 +30,11 @@ Compile the test program by running the following command on the /workspace
 bazel build //test:hello_world_test
 ~~~
 
+or simple use
+
+~~~bash
+bazel build //...
+~~~
 
 ## Running
 
