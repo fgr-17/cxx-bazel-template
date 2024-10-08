@@ -1,4 +1,4 @@
-FROM ubuntu:20.04@sha256:ca5534a51dd04bbcebe9b23ba05f389466cf0c190f1f8f182d7eea92a9671d00
+FROM ubuntu:20.04
 
 ARG TARGETARCH
 
